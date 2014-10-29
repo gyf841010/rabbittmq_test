@@ -1,0 +1,9 @@
+user = "admin"
+password = "admin"
+host = "182.254.204.175"
+queque = "subscribe_queque"
+exchange = 'subscribe'
+exchange_type = 'topic'
+routings = "info,warning,error"
+mode = 2
+durable = 'True'
